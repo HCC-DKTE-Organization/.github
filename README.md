@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/HCC-DKTE-Organization/.github/main/assets/hcc-icon.png" width="220" alt="HackerRank Campus Crew DKTE Logo" />
+
 # 🚀 HackerRank Campus Crew &middot; DKTE
 ### DKTE Society's Textile & Engineering Institute, Ichalkaranji
 **An Autonomous Institute &middot; Student Developer Community**
@@ -8,12 +10,11 @@
   <em>Building a stronger coding culture, problem-solving mindset, and open-source spirit across campus.</em>
 </p>
 
-[![Website](https://img.shields.io/badge/Website-hcc.dkte.ac.in-2EC866?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hcc.dkte.ac.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HCC--DKTE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/hcc-dkte)
-[![Instagram](https://img.shields.io/badge/Instagram-@hcc__dkte-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hcc_dkte)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hcc-dkte)
-[![X](https://img.shields.io/badge/X-@hcc__dkte-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hcc_dkte)
-[![YouTube](https://img.shields.io/badge/YouTube-HCC%20DKTE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hcc_dkte)
+[![Website](https://img.shields.io/badge/Website-hcc--platform-2EC866?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hcc-platform-one.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HCC--DKTE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hackerrank-campus-crew-dkte)
+[![Instagram](https://img.shields.io/badge/Instagram-@hackerrank.dkte-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackerrank.dkte/)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3ydEQyM3v4)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Community-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
 
 ---
 
@@ -97,12 +98,11 @@ Our community culture is shaped by four core tenets:
 
 Stay connected with our initiatives, contests, and announcements:
 
-- 🌍 **Official Website:** [hcc.dkte.ac.in](https://hcc.dkte.ac.in)
-- 💼 **LinkedIn:** [linkedin.com/company/hcc-dkte](https://linkedin.com/company/hcc-dkte)
-- 📸 **Instagram:** [@hcc_dkte](https://instagram.com/hcc_dkte)
-- 💬 **Discord Community:** [discord.gg/hcc-dkte](https://discord.gg/hcc-dkte)
-- 🐦 **X (Twitter):** [@hcc_dkte](https://x.com/hcc_dkte)
-- 🎥 **YouTube:** [@hcc_dkte](https://youtube.com/@hcc_dkte)
+- 🌍 **Official Website:** [hcc-platform-one.vercel.app](https://hcc-platform-one.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/company/hackerrank-campus-crew-dkte](https://www.linkedin.com/company/hackerrank-campus-crew-dkte)
+- 📸 **Instagram:** [@hackerrank.dkte](https://www.instagram.com/hackerrank.dkte/)
+- 💬 **Discord Community:** [discord.gg/3ydEQyM3v4](https://discord.gg/3ydEQyM3v4)
+- ⚡ **HackerRank:** [hackerrank.com](https://hackerrank.com)
 
 ---
 
@@ -110,8 +110,8 @@ Stay connected with our initiatives, contests, and announcements:
 
 Are you a student at DKTE passionate about coding, design, hardware, or technology?
 
-1. **Join the Platform:** Sign up on the [HCC Platform](https://hcc.dkte.ac.in) to participate in workshops and track your achievements.
-2. **Join the Community:** Drop by our [Discord server](https://discord.gg/hcc-dkte) and introduce yourself in the `#introductions` channel.
+1. **Join the Platform:** Sign up on the [HCC Platform](https://hcc-platform-one.vercel.app) to participate in workshops and track your achievements.
+2. **Join the Community:** Drop by our [Discord server](https://discord.gg/3ydEQyM3v4) and introduce yourself in the `#introductions` channel.
 3. **Contribute:** Watch this space for upcoming open-source initiatives and campus projects!
 
 ---
