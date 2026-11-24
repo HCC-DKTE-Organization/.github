@@ -10,7 +10,7 @@
   <em>Building a stronger coding culture, problem-solving mindset, and open-source spirit across campus.</em>
 </p>
 
-[![Website](https://img.shields.io/badge/Website-hcc--platform-2EC866?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hcc-platform-one.vercel.app)
+[![Website](https://img.shields.io/badge/Website-www.hccdkte.dev-2EC866?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hccdkte.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HCC--DKTE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hackerrank-campus-crew-dkte)
 [![Instagram](https://img.shields.io/badge/Instagram-@hackerrank.dkte-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackerrank.dkte/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3ydEQyM3v4)
@@ -98,7 +98,7 @@ Our community culture is shaped by four core tenets:
 
 Stay connected with our initiatives, contests, and announcements:
 
-- 🌍 **Official Website:** [hcc-platform-one.vercel.app](https://hcc-platform-one.vercel.app)
+- 🌍 **Official Website:** [www.hccdkte.dev](https://www.hccdkte.dev/)
 - 💼 **LinkedIn:** [linkedin.com/company/hackerrank-campus-crew-dkte](https://www.linkedin.com/company/hackerrank-campus-crew-dkte)
 - 📸 **Instagram:** [@hackerrank.dkte](https://www.instagram.com/hackerrank.dkte/)
 - 💬 **Discord Community:** [discord.gg/3ydEQyM3v4](https://discord.gg/3ydEQyM3v4)
@@ -110,7 +110,7 @@ Stay connected with our initiatives, contests, and announcements:
 
 Are you a student at DKTE passionate about coding, design, hardware, or technology?
 
-1. **Join the Platform:** Sign up on the [HCC Platform](https://hcc-platform-one.vercel.app) to participate in workshops and track your achievements.
+1. **Join the Platform:** Sign up on the [HCC Platform](https://www.hccdkte.dev/) to participate in workshops and track your achievements.
 2. **Join the Community:** Drop by our [Discord server](https://discord.gg/3ydEQyM3v4) and introduce yourself in the `#introductions` channel.
 3. **Contribute:** Watch this space for upcoming open-source initiatives and campus projects!
 
